@@ -15,7 +15,6 @@ body {
   height: 100vh;
   transition: 0.5s 0.5s linear;
   position: relative;
-  overflow: hidden; 
 }
 body::after {
   content: "";
